@@ -1,0 +1,45 @@
+# OS/editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# R
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+renv/library/
+renv/staging/
+
+# Temporary / cache / logs
+*.log
+*.tmp
+*.temp
+cache/
+tmp/
+
+# Large local source data and serialized objects
+*.rds
+*.RDS
+*.h5
+*.h5ad
+*.h5seurat
+*.mtx
+*.mtx.gz
+*.bam
+*.bai
+*.fastq
+*.fastq.gz
+raw_data/
+source_data/
+
+# Do not commit secrets
+.env
+*.pem
+*.key
+credentials*
+token*

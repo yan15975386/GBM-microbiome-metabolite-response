@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use these reproducibility resources, please cite the associated manuscript and this repository."
+title: "Reproducibility resources for cross-modal analysis of microbiome-linked metabolite response programs in glioblastoma ecosystems"
+type: software
+version: 1.0.0
+date-released: 2026-09-09
+authors:
+  - family-names: Yan
+    given-names: Junqing
+  - family-names: Zhu
+    given-names: Junle
+  - family-names: Wan
+    given-names: Zhiping
+  - family-names: Qian
+    given-names: Wenbo
+  - family-names: Ye
+    given-names: Jingliang
+  - family-names: Wang
+    given-names: Haoheng
+  - family-names: Meng
+    given-names: Xiangtian
+  - family-names: Gu
+    given-names: Jinmao
+  - family-names: Chen
+    given-names: Feng
+  - family-names: Luo
+    given-names: Chun
+keywords:
+  - glioblastoma
+  - gut microbiome
+  - microbial metabolites
+  - single-cell RNA sequencing
+  - spatial transcriptomics
+  - tumour-associated macrophages
+  - reproducibility
+license: MIT
